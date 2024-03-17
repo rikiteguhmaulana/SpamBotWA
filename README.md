@@ -17,13 +17,13 @@ Sudah pasti require <b>[Python](https://www.python.org/downloads/)</b> , install
 - **Clone repository**
 
 ```bash
-git clone https://github.com/rikiteguhmaulana/SpamBotWA-OTP
+git clone https://github.com/rikiteguhmaulana/SpamBotWA
 ```
 
 - **Masuk kedalam directory**
 
 ```sh
-cd SpamBotWA-OTP
+cd SpamBotWA
 ```
 
 - **Jalankan main.py atau Ketik ini di Terminal ( CMD )**
