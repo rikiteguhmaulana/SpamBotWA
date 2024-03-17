@@ -1,7 +1,6 @@
 # <a style="font-family:cursive">SpamBotWA-OTP WORK 100% FOR ID NUMBER!!</a>
 
-<p align="justify"><b>SpamBotWa-OTP</b> adalah sebuah aplikasi prank yang menggunakan sebuah BOT untuk melakukan requests berulang kali sehingga target akan dikirimi pesan OTP secara terus menerus. Aplikasi ini ditujukan sebagai bahan belajar (Open Source) menggunakan modul Requests dan implementasi HTTPS tools di Python.</p>
-<br>
+<p align="justify"><b>SpamBotWA-OTP</b> adalah sebuah aplikasi prank yang menggunakan sebuah BOT untuk melakukan requests berulang kali sehingga target akan dikirimi pesan OTP secara terus menerus. Aplikasi ini ditujukan sebagai bahan belajar (Open Source) menggunakan modul Requests dan implementasi HTTPS tools di Python.</p>
 
 # v.1.0.9 (**17 Maret 2024**) WORK! ✔️✔️
 
@@ -38,3 +37,5 @@ python main.py
 - **Gunakan dengan Bijak Ya Guys**
 
 <br>
+
+- **inspiration from By:[rickyfazaa](https://github.com/rickyfazaa)**
